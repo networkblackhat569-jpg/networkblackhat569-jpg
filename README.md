@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**networkblackhat569-jpg/networkblackhat569-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌─────────────────────────────────────────────┐
+│        MUZAMMIL FAISAL                      │
+│ Cybersecurity Developer                     │
+│ Python Security Tools • Security Dashboards │
+│                                             │
+│        [Cybersecurity Banner]               │
+│                                             │
+│ 👋 Hi, I'm Muzammil                         │
+│                                             │
+│ I build practical cybersecurity tools,     │
+│ security dashboards and Python automation. │
+│                                             │
+│ 🛡️ Featured Projects                        │
+│                                             │
+│ ReconToolkit Pro                            │
+│ AI Security Copilot Pro                     │
+│ StegoForge                                  │
+│ CYBERTRACK AI                               │
+│                                             │
+│ 🧰 Skills                                   │
+│ Python | Linux | Streamlit | SQLite        │
+│ Networking | Security Testing | Git         │
+│                                             │
+│ 🎯 Current Focus                            │
+│ Red Team • Network Security • Automation   │
+│                                             │
+│ 📊 GitHub Stats                             │
+│                                             │
+│ 🔗 Portfolio | Upwork | Fiverr              │
+└─────────────────────────────────────────────┘
